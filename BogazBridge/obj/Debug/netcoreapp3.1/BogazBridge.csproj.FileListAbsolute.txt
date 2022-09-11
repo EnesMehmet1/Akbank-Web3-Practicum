@@ -1,0 +1,14 @@
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\bin\Debug\netcoreapp3.1\BogazBridge.exe
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\bin\Debug\netcoreapp3.1\BogazBridge.deps.json
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\bin\Debug\netcoreapp3.1\BogazBridge.runtimeconfig.json
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\bin\Debug\netcoreapp3.1\BogazBridge.runtimeconfig.dev.json
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\bin\Debug\netcoreapp3.1\BogazBridge.dll
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\bin\Debug\netcoreapp3.1\BogazBridge.pdb
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.csproj.AssemblyReference.cache
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.AssemblyInfoInputs.cache
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.AssemblyInfo.cs
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.csproj.CoreCompileInputs.cache
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.dll
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.pdb
+C:\Users\yildi\source\repos\BogazBridge\BogazBridge\obj\Debug\netcoreapp3.1\BogazBridge.genruntimeconfig.cache
